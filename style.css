@@ -42,7 +42,7 @@ body{
     border-top-right-radius: 10px;
 }
 
-.seat.Selected {
+.seat.selected {
     background-color: #6feaf6;
 }
 
